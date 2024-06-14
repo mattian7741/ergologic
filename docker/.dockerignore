@@ -1,0 +1,9 @@
+**/node_modules
+**/.serverless
+**/venv
+**/.git
+**/.github
+**/.idea
+**/.terraform
+**/__pycache__
+**/.pytest_cache
